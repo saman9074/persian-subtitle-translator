@@ -1,0 +1,6 @@
+{
+  "name": "Persian Subtitle Translator",
+  "description": "A web application to translate subtitle files (SRT format) to Persian using the Gemini API, considering contextual accuracy by analyzing preceding and succeeding subtitle lines.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
